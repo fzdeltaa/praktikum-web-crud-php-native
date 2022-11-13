@@ -1,0 +1,31 @@
+body * {
+	color: white;
+}
+
+.login {
+	background-color: #212429;
+	margin-top: 13%;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+.login table {
+	border-collapse: collapse;
+	padding: 0px;
+	margin: 0px;
+	border-spacing: 0px;
+	width: 100%;
+}
+
+.login input {
+	width: 100%;
+}
+
+.index {
+	background-color: #212429;
+}
+
+.tengah {
+	padding-top: 10%;
+}
