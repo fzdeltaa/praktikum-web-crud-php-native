@@ -19,7 +19,7 @@ if (empty($_SESSION['username'])) {
 <body class="index">
     <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
         <div class="container-fluid">
-            <p class="navbar-brand">Praktikum IF | 123210111</p>
+            <p class="navbar-brand">Praktikum IF | hehe</p>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 </ul>
